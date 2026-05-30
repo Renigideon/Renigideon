@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reni%20Gideon%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Business%20Intelligence%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reni%20Gideon%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%26%20Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+There!+I'm+Reni+Gideon+%F0%9F%91%8B;Data+Analytics+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+There!+I'm+Reni+Gideon+%F0%9F%91%8B;Data+Scientist+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+into+Real+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,7 +22,7 @@ class ReniGideon:
         self.degree           = "B.E - Electronics & Communication Engineering"
         self.college          = "K Ramakrishnan College of Technology"
         self.graduation_year  = 2026
-        self.role             = "Business Intelligence Analyst (Aspiring)"
+        self.role             = "Aspiring Data Scientist & Data Analyst"
 
         self.stack = [
             "Python", "Java", "SQL",
@@ -83,11 +83,11 @@ class ReniGideon:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/renigideon1">
+  <a href="https://github.com/Renigideon">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renigideon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/renigideon1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renigideon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/Renigideon">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renigideon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -96,7 +96,7 @@ class ReniGideon:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=renigideon1&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Renigideon&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -104,7 +104,7 @@ class ReniGideon:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renigideon &theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renigideon&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -112,7 +112,7 @@ class ReniGideon:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=renigideon1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Renigideon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -191,11 +191,11 @@ class ReniGideon:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=renigideon1&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Renigideon&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
   <br/><br/>
   <i>"Every business challenge has a data-driven solution. I just have to find it. 🔍"</i>
   <br/><br/>
-  📫 Reach me at <a href="mailto:renigideon1@gmail.com">renigideon1@gmail.com</a> · <a href="https://linkedin.com/in/renigideon">LinkedIn</a> · <a href="https://github.com/renigideon1">GitHub</a>
+  📫 Reach me at <a href="mailto:renigideon1@gmail.com">renigideon1@gmail.com</a> · <a href="https://linkedin.com/in/renigideon">LinkedIn</a> · <a href="https://github.com/Renigideon">GitHub</a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
